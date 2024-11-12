@@ -1,0 +1,48 @@
+{
+    "Bocker": [
+        {
+            "Id": 1,
+            "Titel": "C# Programming",
+            "ForfattareId": 1,
+            "Genre": "Programming",
+            "PubliceringsAr": 2021,
+            "Isbn": "123-4567890123",
+            "Recensioner": [ 5, 4, 3 ]
+        },
+        {
+            "Id": 2,
+            "Titel": "Learn Python",
+            "ForfattareId": 2,
+            "Genre": "Programming",
+            "PubliceringsAr": 2020,
+            "Isbn": "234-5678901234",
+            "Recensioner": [ 4, 4, 5 ]
+        },
+        {
+            "Id": 3,
+            "Titel": "JavaScript Essentials",
+            "ForfattareId": 3,
+            "Genre": "Programming",
+            "PubliceringsAr": 2020,
+            "Isbn": "345-6789012345",
+            "Recensioner": [ 5, 3, 4 ]
+        }
+    ],
+    "Forfattare": [
+        {
+            "Id": "1",
+            "Namn": "John Doe",
+            "Nationalitet": "Svensk"
+        },
+        {
+            "Id": "2",
+            "Namn": "Jane Smith",
+            "Nationalitet": "Amerikansk"
+        },
+        {
+            "Id": "3",
+            "Namn": "Emily Johnson",
+            "Nationalitet": "Brittisk"
+        }
+    ]
+}
